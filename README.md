@@ -17,3 +17,7 @@ touch](https://twitter.com/cararthompson)!
 ### Day 2 - Waffle - 🛠️ RStats
 
 <a href='scripts/day_02_waffles.R' target='_blank'><img src="plots/day02_waffles.png"></a>
+
+### Day 3 - Fauna/Flora - 🛠️ RStats
+
+<a href='scripts/day03_flora-fauna.R' target='_blank'><img src="plots/day03_flora.gif"></a>
