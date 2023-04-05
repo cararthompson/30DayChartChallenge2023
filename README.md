@@ -25,3 +25,7 @@ touch](https://twitter.com/cararthompson)!
 ### Day 4 - Historical - 🛠️ RStats
 
 <a href='scripts/day03_historical.R' target='_blank'><img src="plots/day04_historical.png"></a>
+
+### Day 5 - Slope - 🛠️ RStats
+
+![](https://www.cararthompson.com/data/about/about_timeline.png)
