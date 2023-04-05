@@ -21,3 +21,7 @@ touch](https://twitter.com/cararthompson)!
 ### Day 3 - Fauna/Flora - 🛠️ RStats
 
 <a href='scripts/day03_flora-fauna.R' target='_blank'><img src="plots/day03_flora.gif"></a>
+
+### Day 4 - Historical - 🛠️ RStats
+
+<a href='scripts/day03_historical.R' target='_blank'><img src="plots/day03_historical.R"></a>
