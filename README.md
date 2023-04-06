@@ -29,3 +29,7 @@ touch](https://twitter.com/cararthompson)!
 ### Day 5 - Slope - 🛠️ RStats
 
 ![](https://www.cararthompson.com/data/about/about_timeline.png)
+
+## Day 6 - OWID data - 🛠️ RStats
+
+<a href='scripts/day06_owid.R' target='_blank'><img src="plots/day06_owid.png"></a>
