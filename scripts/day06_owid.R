@@ -29,7 +29,7 @@ ggplot(filter(betteraves, Entity %in% c("France", "United States"))) +
                              family = "Noah",
                              fontface = "bold") +
   scale_y_continuous(breaks = c(10000000, 20000000, 30000000),
-                     labels = function(x) paste0(grkmisc::pretty_num(x), "<br>tonnes")) +
+                     labels = function(x) paste0(grkmisc::pretty_num(x), "<br><span style='font-size:8pt'>tonnes</span>")) +
   labs(caption = "Data visualisation: Cara Thompson<br>Source: Our World In Data<br>#30DayChartChallenge | Day 6 | Comparisons: OWID Data") +
   theme_minimal() +
   ggtext::geom_textbox(aes(x = 1962,
@@ -64,9 +64,12 @@ ggplot(filter(betteraves, Entity %in% c("France", "United States"))) +
         plot.margin = margin(1, 1, 1, 1, unit = "cm"),
         panel.grid = element_line(colour = "#F4F4F4"),
         axis.title.x = element_blank(),
-        axis.text.x = element_text(size = 12, colour = "#010101"),
+        axis.text.x = element_text(size = 11, colour = "#010101"),
         axis.title.y = element_blank(),
-        axis.text.y = ggtext::element_markdown(colour = "#010101", hjust = 1),
+        axis.text.y = ggtext::element_markdown(colour = "#010101",
+                                               hjust = 0.5,
+                                               lineheight = 0.8,
+                                               size = 11),
         plot.caption = ggtext::element_textbox_simple(family = "Noah",
                                                       colour = "#010101",
                                                       halign = 1,
