@@ -30,6 +30,12 @@ touch](https://twitter.com/cararthompson)!
 
 ![](https://www.cararthompson.com/data/about/about_timeline.png)
 
-## Day 6 - OWID data - 🛠️ RStats
+### Day 6 - OWID data - 🛠️ RStats
 
 <a href='scripts/day06_owid.R' target='_blank'><img src="plots/day06_owid.png"></a>
+
+## Distributions
+
+### Day 7 - Hazards - 🛠️ RStats
+
+<a href='scripts/day07_hazards.R' target='_blank'><img src="plots/day07_hazards.png"></a>
