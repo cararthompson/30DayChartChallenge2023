@@ -39,3 +39,7 @@ touch](https://twitter.com/cararthompson)!
 ### Day 7 - Hazards - 🛠️ RStats
 
 <a href='scripts/day07_hazards.R' target='_blank'><img src="plots/day07_hazards.png"></a>
+
+### Day 7 - Humans - 🛠️ Smarties, pen and paper
+
+![](plots/day08_humans.gif)

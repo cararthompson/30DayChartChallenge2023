@@ -50,3 +50,10 @@ Welcome to my 2023 #30DayChartChallenge repo. Clicking on a plot will take you t
 <a href='scripts/day07_hazards.R' target='_blank'><img src="plots/day07_hazards.png"></a>
 
 
+### Day 7 - Humans - 🛠️ Smarties, pen and paper
+
+![](plots/day08_humans.gif)
+
+
+
+
