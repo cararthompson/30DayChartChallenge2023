@@ -40,6 +40,14 @@ touch](https://twitter.com/cararthompson)!
 
 <a href='scripts/day07_hazards.R' target='_blank'><img src="plots/day07_hazards.png"></a>
 
-### Day 7 - Humans - 🛠️ Smarties, pen and paper
+### Day 8 - Humans - 🛠️ Smarties, pen and paper
 
 ![](plots/day08_humans.gif)
+
+### Day 9 - High/Low - 🛠 Notebook and pencil
+
+![](plots/day09_highlow.jpg)
+
+### Day 10 - Hybrid - 🛠 Rstats
+
+<a href='scripts/day10_hybrid.R' target='_blank'><img src="plots/day10_hybrid.png"></a>
