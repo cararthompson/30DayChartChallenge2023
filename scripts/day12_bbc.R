@@ -28,7 +28,7 @@ ggplot(daylight_data) +
   coord_polar(start = -1.22) +
   labs(title = "Daylight hours in Edinburgh through the year",
        subtitle = "From December to April, the number of daylight hours almost doubles. No wonder we're feeling brighter!",
-       caption = "Data visualisation: Cara Thompson | #30DayChartChallenge<br>**____________________________________________________________________________________________________________**<br><br>Source: visitnorthwest.com/sunrise-sunset-times/edinburgh") +
+       caption = "Data visualisation: Cara Thompson | #30DayChartChallenge<br>**_______________________________________________________________________________________________________________________**<br><br>Source: visitnorthwest.com/sunrise-sunset-times/edinburgh") +
   ylim(c(-20000, 100000)) +
   theme_void() +
   ggtext::geom_textbox(data = filter(daylight_data, date %in% as.Date(c("2023-04-11", "2023-06-21", "2023-08-15", "2023-12-21"))) %>%
