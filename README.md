@@ -59,3 +59,9 @@ touch](https://twitter.com/cararthompson)!
 ### Day 12 - BBC - 🛠 Rstats
 
 <a href='scripts/day12_bbc.R' target='_blank'><img src="plots/day12_bbc.png"></a>
+
+## Relationships
+
+### Day 13 - Pop culture - 🛠 Rstats
+
+<a href='scripts/day13_pop-culture.R' target='_blank'><img src="plots/day13_pop-culture.png"></a>
